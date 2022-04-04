@@ -1,0 +1,2 @@
+# An-analysis-of-the-expenditure-of-an-international-student-in-Europe-during-the-epidemic
+An analysis of the expenditure of an international student in Europe during the epidemic, the time span is from 2018 to 2021. The analysis software used PowerBi to analyze the fluctuation curve of spending from multiple dimensions and try to find its reasons.一个留学生在欧洲疫情期间的支出分析，时间跨度为2018至2021。分析软件使用了PowerBi，从多个维度分析支出的波动曲线，并尝试找到其原因。
